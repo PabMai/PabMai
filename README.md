@@ -1,5 +1,13 @@
 # Hi there, I'm PabMai! 👋
 
+<!-- 
+👉 This is a template! Replace placeholder information with your own:
+- Update social media links in the "Connect with Me" section
+- Replace project names and URLs in the "Featured Projects" section
+- Customize the "About Me" section with your own information
+- Adjust technologies and tools to match your skillset
+-->
+
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=PabMai&color=blueviolet&style=flat-square)
